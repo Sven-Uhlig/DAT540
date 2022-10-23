@@ -1,0 +1,9 @@
+Reading files in python can also be performed using methods such as read, seek and tell
+
+
+	read: returns a certain number of charecters from the file and advances the file
+		 handle's position by the number of bytes read
+
+	tell: method gives the current position of the file handle
+
+	seek: changes the file position to the indicated byte in the file
